@@ -1,3 +1,8 @@
 
 *.cws
 *.FCStd1
+pcb/futaba-pcb/futaba-pcb-backups/*
+pcb/futaba-pcb/production/*
+pcb/futaba-pcb/output/*
+*.bak
+pcb/futaba-pcb/fp-info-cache
