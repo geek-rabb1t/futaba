@@ -6,3 +6,4 @@ pcb/futaba-pcb/production/*
 pcb/futaba-pcb/output/*
 *.bak
 pcb/futaba-pcb/fp-info-cache
+*.FCBak

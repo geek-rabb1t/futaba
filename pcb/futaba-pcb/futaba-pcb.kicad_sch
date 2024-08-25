@@ -2313,7 +2313,7 @@
 		(uuid "28963759-7257-4d14-bd93-381f93996f21")
 	)
 	(no_connect
-		(at 243.84 74.93)
+		(at 257.81 86.36)
 		(uuid "628aa290-6a78-4701-ab51-fa0e3aae794e")
 	)
 	(no_connect
@@ -3343,7 +3343,7 @@
 		(uuid "ae0e0d0c-04b1-4d93-bab2-8d0c7f1b8569")
 	)
 	(label "LR2"
-		(at 275.59 80.01 0)
+		(at 275.59 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3409,7 +3409,7 @@
 		(uuid "19183828-563a-40a1-8bc7-294d5ef76135")
 	)
 	(label "RR3"
-		(at 255.27 86.36 270)
+		(at 243.84 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3464,13 +3464,13 @@
 		(uuid "2ea572cb-d7be-4a2b-a6f2-443523354b5c")
 	)
 	(label "SDA"
-		(at 243.84 82.55 180)
+		(at 275.59 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "3290166b-7db2-41c5-8f94-f41cd6186213")
 	)
@@ -3552,7 +3552,7 @@
 		(uuid "44bc2fcd-b088-45d1-8ffc-d7342d802f47")
 	)
 	(label "LR4"
-		(at 265.43 86.36 270)
+		(at 260.35 86.36 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3563,7 +3563,7 @@
 		(uuid "5937a85a-07e3-4fdc-add9-ba824eda48a5")
 	)
 	(label "CR1"
-		(at 243.84 77.47 180)
+		(at 243.84 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3607,7 +3607,7 @@
 		(uuid "647e4f57-5a77-4541-8396-8ae1022d7742")
 	)
 	(label "RR1"
-		(at 260.35 86.36 270)
+		(at 243.84 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3640,7 +3640,7 @@
 		(uuid "748ed31e-7941-4fff-80b9-76b2cb025d9a")
 	)
 	(label "RotaryB"
-		(at 243.84 72.39 180)
+		(at 243.84 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3651,7 +3651,7 @@
 		(uuid "7dec11bb-fc24-4639-8859-2e84d22c8c48")
 	)
 	(label "RR2"
-		(at 257.81 86.36 270)
+		(at 243.84 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3662,7 +3662,7 @@
 		(uuid "7e3525c5-a9d4-4bf9-a032-0cba6ca79196")
 	)
 	(label "RotaryA"
-		(at 243.84 69.85 180)
+		(at 255.27 86.36 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3673,7 +3673,7 @@
 		(uuid "7e530033-b460-46a6-98af-786c4568c221")
 	)
 	(label "C2"
-		(at 275.59 72.39 0)
+		(at 275.59 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3684,18 +3684,18 @@
 		(uuid "81fa723e-4090-49ee-85eb-f73d787707f4")
 	)
 	(label "LR3"
-		(at 275.59 77.47 0)
+		(at 265.43 86.36 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "8b86ac8d-5df2-4165-bcc7-1673e64a1109")
 	)
 	(label "C1"
-		(at 275.59 69.85 0)
+		(at 275.59 77.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3750,13 +3750,13 @@
 		(uuid "9cb7af46-a8ca-420c-a673-de11eb22495e")
 	)
 	(label "LR1"
-		(at 275.59 82.55 0)
+		(at 262.89 86.36 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "a0b28215-f29c-4e48-a7dc-2508b2dff365")
 	)
@@ -3783,7 +3783,7 @@
 		(uuid "a63421fc-6da3-48c3-8cec-cf43160f95f1")
 	)
 	(label "C6"
-		(at 275.59 67.31 0)
+		(at 275.59 72.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3805,13 +3805,13 @@
 		(uuid "c97e61ae-0256-4c07-9b93-315819a3502e")
 	)
 	(label "SCL"
-		(at 243.84 80.01 180)
+		(at 275.59 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d2b92f11-4cc6-4a40-9f57-a9bbc88374ca")
 	)
@@ -3827,7 +3827,7 @@
 		(uuid "d5e5f7eb-feb4-4b23-99de-bcbaadf3644c")
 	)
 	(label "RR4"
-		(at 262.89 86.36 270)
+		(at 243.84 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4063,7 +4063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 166.37 116.84 0)
 			(effects
 				(font
@@ -4362,7 +4362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 118.11 193.04 0)
 			(effects
 				(font
@@ -4518,7 +4518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 93.98 135.89 0)
 			(effects
 				(font
@@ -4674,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 93.98 154.94 0)
 			(effects
 				(font
@@ -4830,7 +4830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 118.11 74.93 0)
 			(effects
 				(font
@@ -4897,7 +4897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 166.37 173.99 0)
 			(effects
 				(font
@@ -5229,7 +5229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 166.37 52.07 0)
 			(effects
 				(font
@@ -5297,7 +5297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 93.98 96.52 0)
 			(effects
 				(font
@@ -5629,7 +5629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 142.24 193.04 0)
 			(effects
 				(font
@@ -5785,7 +5785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 45.72 154.94 0)
 			(effects
 				(font
@@ -6017,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 69.85 173.99 0)
 			(effects
 				(font
@@ -6391,7 +6391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 45.72 173.99 0)
 			(effects
 				(font
@@ -6635,7 +6635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 69.85 74.93 0)
 			(effects
 				(font
@@ -6703,7 +6703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 142.24 135.89 0)
 			(effects
 				(font
@@ -6859,7 +6859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 93.98 52.07 0)
 			(effects
 				(font
@@ -7102,7 +7102,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 142.24 173.99 0)
 			(effects
 				(font
@@ -7258,7 +7258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 69.85 52.07 0)
 			(effects
 				(font
@@ -7414,7 +7414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 45.72 96.52 0)
 			(effects
 				(font
@@ -7570,7 +7570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 142.24 154.94 0)
 			(effects
 				(font
@@ -7884,7 +7884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 166.37 193.04 0)
 			(effects
 				(font
@@ -8128,7 +8128,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 166.37 154.94 0)
 			(effects
 				(font
@@ -8196,7 +8196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 142.24 52.07 0)
 			(effects
 				(font
@@ -8330,7 +8330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 69.85 135.89 0)
 			(effects
 				(font
@@ -8485,7 +8485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 118.11 173.99 0)
 			(effects
 				(font
@@ -8553,7 +8553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 45.72 135.89 0)
 			(effects
 				(font
@@ -8709,7 +8709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_bottom"
 			(at 69.85 116.84 0)
 			(effects
 				(font
@@ -8865,7 +8865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 118.11 154.94 0)
 			(effects
 				(font
@@ -9021,7 +9021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 69.85 154.94 0)
 			(effects
 				(font
@@ -9177,7 +9177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 45.72 74.93 0)
 			(effects
 				(font
@@ -9245,7 +9245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 45.72 52.07 0)
 			(effects
 				(font
@@ -9489,7 +9489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 142.24 116.84 0)
 			(effects
 				(font
@@ -9732,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 93.98 173.99 0)
 			(effects
 				(font
@@ -10232,7 +10232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 69.85 193.04 0)
 			(effects
 				(font
@@ -10388,7 +10388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 166.37 74.93 0)
 			(effects
 				(font
@@ -10808,7 +10808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 118.11 96.52 0)
 			(effects
 				(font
@@ -11140,7 +11140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 93.98 74.93 0)
 			(effects
 				(font
@@ -11208,7 +11208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 118.11 116.84 0)
 			(effects
 				(font
@@ -11364,7 +11364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_top"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -11608,7 +11608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 142.24 74.93 0)
 			(effects
 				(font
@@ -11744,7 +11744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_bottom"
 			(at 93.98 116.84 0)
 			(effects
 				(font
@@ -11878,7 +11878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 166.37 135.89 0)
 			(effects
 				(font
@@ -11946,7 +11946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 93.98 193.04 0)
 			(effects
 				(font
@@ -12014,7 +12014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 69.85 96.52 0)
 			(effects
 				(font
@@ -12082,7 +12082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 166.37 96.52 0)
 			(effects
 				(font
@@ -12150,7 +12150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill_2"
 			(at 118.11 135.89 0)
 			(effects
 				(font
@@ -12218,7 +12218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyboard:Choc_Socket"
+		(property "Footprint" "keyboard:Choc_Socket-flex-drill"
 			(at 142.24 96.52 0)
 			(effects
 				(font

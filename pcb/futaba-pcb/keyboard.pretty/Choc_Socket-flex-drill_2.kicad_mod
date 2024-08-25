@@ -1,10 +1,10 @@
-(footprint "Choc_Socket"
+(footprint "Choc_Socket-flex-drill_2"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 14.6 1.5 0)
+		(at 14.75 0.85 0)
 		(layer "F.SilkS")
 		(uuid "43118421-0739-4346-a876-4d4c2d81c6d9")
 		(effects
@@ -732,6 +732,13 @@
 		(layer "User.3")
 		(uuid "07439952-56b6-414e-8136-c91e4f236c11")
 	)
+	(pad "" np_thru_hole oval
+		(at 2.1 8.7)
+		(size 1 14)
+		(drill oval 1 14)
+		(layers "*.Mask")
+		(uuid "8777d0f0-c21d-41d0-943b-0326f162d86b")
+	)
 	(pad "" np_thru_hole circle
 		(at 4 9.5 90)
 		(size 1.9 1.9)
@@ -761,6 +768,13 @@
 		(layers "*.Mask")
 		(uuid "707f604a-7f3f-405f-8b89-2e17dbf94ec1")
 	)
+	(pad "" np_thru_hole oval
+		(at 9.6 2.2)
+		(size 16 1)
+		(drill oval 16 1)
+		(layers "*.Mask")
+		(uuid "626c4d95-3cfa-48b1-a29e-75a5ca2cc619")
+	)
 	(pad "" np_thru_hole circle
 		(at 14.5 13.25)
 		(size 2.96 2.96)
@@ -774,6 +788,13 @@
 		(drill 1.9)
 		(layers "*.Cu" "*.Mask")
 		(uuid "664188bb-b8fe-4544-9715-18b5406ded1f")
+	)
+	(pad "" np_thru_hole oval
+		(at 17.1 6.2)
+		(size 1 9)
+		(drill oval 1 9)
+		(layers "*.Mask")
+		(uuid "18184150-7cf6-41af-ac71-4ccb1bbd6b0f")
 	)
 	(pad "1" smd rect
 		(at 18.275 13.25)

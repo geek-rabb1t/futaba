@@ -1,0 +1,160 @@
+(footprint "RP2040-Tiny Adapter"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "22c60f7a-6885-4ce3-a201-41558a1b1e20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "RP2040-Tiny Adapter"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c7d28d0d-6ecc-4b65-8a08-40b938ff8d7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bde45ab7-b8cc-4998-a72b-28fa0ed5c7d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c6d0cf5-3704-4ff2-b5f4-b0a46a43b95d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f9b4f05-0b86-4eae-8908-49df90578534")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start 0 0)
+		(end 18 18)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2b7108f7-8b36-493d-95c3-475fd4db8570")
+	)
+	(fp_text user "Connector"
+		(at 5.15 17.95 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "9d5f04d5-c998-402b-a82b-bdf421b12b14")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "RP2040-Tiny Adapter"
+		(at 0.6 9.8 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "a8c7d75b-f991-42a7-ac50-0ae945c96199")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "USB"
+		(at 7.6 1.35 0)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(uuid "b77e9559-b33c-4603-8928-33e7579c8035")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c7b7a832-381a-48d6-a14e-78312f05fda2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 2 2)
+		(size 2 2)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "2a7a9aba-2b51-43ba-9df8-e9d04354d257")
+	)
+	(pad "" np_thru_hole circle
+		(at 2 16)
+		(size 2 2)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "c51383a9-5a10-446e-a642-383c9f61650d")
+	)
+	(pad "" np_thru_hole circle
+		(at 16 2)
+		(size 2 2)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "6816130e-d930-4575-9742-c27747464823")
+	)
+	(pad "" np_thru_hole circle
+		(at 16 16)
+		(size 2 2)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "d11d1ce0-68f1-4e5c-b07b-3082911a1837")
+	)
+)
