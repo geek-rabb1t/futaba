@@ -7,3 +7,11 @@ pcb/futaba-pcb/output/*
 *.bak
 pcb/futaba-pcb/fp-info-cache
 *.FCBak
+/pcb/futaba-pcb-backups
+pcb/fp-info-cache
+pcb/fp-lib-table
+*.kicad_prl
+pcb/fabrication-toolkit-options.json
+/pcb/output
+/pcb/production
+pcb/sym-lib-table

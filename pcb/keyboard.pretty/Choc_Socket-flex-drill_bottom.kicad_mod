@@ -733,7 +733,7 @@
 		(uuid "07439952-56b6-414e-8136-c91e4f236c11")
 	)
 	(pad "" np_thru_hole oval
-		(at 1.9 8)
+		(at 2.1 8)
 		(size 1 17)
 		(drill oval 1 17)
 		(layers "*.Mask")
