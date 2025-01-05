@@ -339,7 +339,7 @@
 		)
 		(fp_arc
 			(start 11.75 11.925002)
-			(mid 12.113834 11.220221)
+			(mid 12.113828 11.220214)
 			(end 12.85 10.925)
 			(stroke
 				(width 0.12)
@@ -8370,7 +8370,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D49"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.SilkS")
 			(uuid "7995c005-45bd-43e0-b514-cd0a2135c746")
 			(effects
@@ -8381,7 +8381,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at -0.000001 2.100003 360)
+			(at -0.000001 2.100003 0)
 			(layer "F.Fab")
 			(uuid "c8bc0900-f65a-4d77-a8c5-deb929e47e25")
 			(effects
@@ -8642,7 +8642,7 @@
 			(uuid "a4bb0224-caae-4b0b-8fb9-e8da251d324e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.Fab")
 			(uuid "412d9798-057c-41aa-b8d6-1ab64a88bf1f")
 			(effects
@@ -10849,7 +10849,7 @@
 		)
 		(fp_arc
 			(start 11.75 11.925)
-			(mid 12.113824 11.220209)
+			(mid 12.113828 11.220213)
 			(end 12.850001 10.925001)
 			(stroke
 				(width 0.12)
@@ -13727,7 +13727,7 @@
 		(uuid "3e298dc0-4685-428b-bbea-2fb75097c8e1")
 		(at 206.826988 83.677384)
 		(property "Reference" "SW49"
-			(at 14.599999 1.499998 360)
+			(at 14.599999 1.499998 0)
 			(layer "F.SilkS")
 			(uuid "5f81be68-ffca-43ec-a236-3a09f3367ea5")
 			(effects
@@ -13738,7 +13738,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 8 1.05 360)
+			(at 8 1.05 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83a6eb76-8ccc-431e-95ba-13418ea52ce3")
@@ -13884,7 +13884,7 @@
 		)
 		(fp_arc
 			(start 11.674999 16.750001)
-			(mid 12.038241 15.902637)
+			(mid 12.038238 15.90263)
 			(end 12.899998 15.574997)
 			(stroke
 				(width 0.12)
@@ -38173,7 +38173,7 @@
 		(uuid "97aba8c1-60d2-412c-926e-abb6bff880a2")
 		(at 168.826989 83.67738)
 		(property "Reference" "SW51"
-			(at 14.599999 1.499998 360)
+			(at 14.599999 1.499998 0)
 			(layer "F.SilkS")
 			(uuid "75c344ee-aab6-4e42-b92e-6115701336e2")
 			(effects
@@ -38184,7 +38184,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 8 1.05 360)
+			(at 8 1.05 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "357a491c-7d37-49d6-8dac-4a907bda1d5d")
@@ -38330,7 +38330,7 @@
 		)
 		(fp_arc
 			(start 11.674999 16.750001)
-			(mid 12.038241 15.902637)
+			(mid 12.038238 15.90263)
 			(end 12.899998 15.574997)
 			(stroke
 				(width 0.12)
@@ -42842,7 +42842,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D51"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.SilkS")
 			(uuid "83609732-f26e-430c-b641-8d830eef2f23")
 			(effects
@@ -42853,7 +42853,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at -0.000001 2.100003 360)
+			(at -0.000001 2.100003 0)
 			(layer "F.Fab")
 			(uuid "5e357a41-89be-4f34-a393-e7ac65565bdc")
 			(effects
@@ -43114,7 +43114,7 @@
 			(uuid "5e9db759-5f30-4840-bdb3-273c0811b10d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.Fab")
 			(uuid "a30ec22c-4d6f-4aee-8393-bcf7de9585bf")
 			(effects
@@ -43185,7 +43185,7 @@
 			)
 		)
 		(property "Footprint" "keyboard:RP2040-Zero"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd5261ea-41ed-4051-b209-3bd279d8ef91")
@@ -43197,7 +43197,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.waveshare.com/wiki/RP2040-Zero"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "329a24bf-ef1e-4623-b6c9-ed84179a4bc3")
@@ -43209,7 +43209,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0d4bc064-d0cc-49e8-b5fc-4fd83c8a7fa4")
@@ -43821,7 +43821,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D50"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.SilkS")
 			(uuid "a98f8749-859c-4108-b5b0-52d4b082e1bc")
 			(effects
@@ -43832,7 +43832,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at -0.000001 2.100003 360)
+			(at -0.000001 2.100003 0)
 			(layer "F.Fab")
 			(uuid "a9f645e7-e159-4795-906d-04e83b8c295f")
 			(effects
@@ -44093,7 +44093,7 @@
 			(uuid "9c90e9af-a4f0-4172-a857-4f7e9dc845d7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.Fab")
 			(uuid "fe6f822c-23cf-4f9a-814c-821dcc301c6e")
 			(effects
@@ -45268,7 +45268,7 @@
 		(descr "Jushuo AFC07, FFC/FPC connector, AFC07-S06FCA-00, 6 Pins per row (https://datasheet.lcsc.com/lcsc/1811040204_JUSHUO-AFC07-S32FCC-00_C11061.pdf)")
 		(tags "connector jushuo horizontal")
 		(property "Reference" "J1"
-			(at 6.02 -2.81 360)
+			(at 6.02 -2.81 0)
 			(layer "F.SilkS")
 			(uuid "c25b4eb6-dd28-4813-ad78-45dace0ce194")
 			(effects
@@ -45279,7 +45279,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 0.869999 0.11 360)
+			(at 0.869999 0.11 0)
 			(layer "F.Fab")
 			(uuid "ed76bc60-169e-4479-aa76-1e0cad526a86")
 			(effects
@@ -46017,18 +46017,19 @@
 		(descr "Mounting Hole 3.2mm, M3, ISO14580")
 		(tags "mounting hole 3.2mm m3 iso14580")
 		(property "Reference" "Clicker"
-			(at 0 -3.75 360)
-			(layer "F.SilkS")
+			(at -0.043536 -4.150433 -0)
+			(layer "B.SilkS")
 			(uuid "5a5e86a8-9762-45d0-b037-75c82e38948b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(property "Value" "MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom"
-			(at 0 3.75 360)
+			(at 0 3.75 0)
 			(layer "F.Fab")
 			(uuid "8c29372c-97a9-4ee3-9a53-f4229f67ef74")
 			(effects
@@ -46101,7 +46102,7 @@
 			(uuid "45c79cf6-3bf2-4504-b2f3-569e5df99db6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a7dca3f9-2e6a-42e7-ae39-11e115e2c132")
 			(effects
@@ -52895,7 +52896,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D19"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.SilkS")
 			(uuid "15224286-d13f-45a2-87b3-1863ebd88cdf")
 			(effects
@@ -52906,7 +52907,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at -0.000001 2.100003 360)
+			(at -0.000001 2.100003 0)
 			(layer "F.Fab")
 			(uuid "4021b3fc-4fa2-4118-be98-c6b8a54c7a58")
 			(effects
@@ -53167,7 +53168,7 @@
 			(uuid "1693ae0f-6d56-4a93-9224-423caf77124c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.000001 -2.000003 360)
+			(at 0.000001 -2.000003 0)
 			(layer "F.Fab")
 			(uuid "5d3fa145-3be0-4b03-9821-e9da8e873600")
 			(effects
@@ -53427,7 +53428,7 @@
 		(uuid "eeb15894-d467-4ad9-b49c-bfeaebbbfa79")
 		(at 187.826976 83.677382)
 		(property "Reference" "SW50"
-			(at 14.599999 1.499998 360)
+			(at 14.599999 1.499998 0)
 			(layer "F.SilkS")
 			(uuid "cf40e740-7702-48c2-b543-dcb1e1c37882")
 			(effects
@@ -53438,7 +53439,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 8 1.05 360)
+			(at 8 1.05 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e4d43e6f-94a0-4537-8c3d-f82364d7ea98")
@@ -53584,7 +53585,7 @@
 		)
 		(fp_arc
 			(start 11.674999 16.750001)
-			(mid 12.038241 15.902637)
+			(mid 12.038238 15.90263)
 			(end 12.899998 15.574997)
 			(stroke
 				(width 0.12)
@@ -66749,7 +66750,31 @@
 		(layer "Edge.Cuts")
 		(uuid "ffd5234f-b85a-485f-88bb-ee8c467e9548")
 	)
-	(gr_text "futaba"
+	(gr_text "Front side"
+		(at 229.52 133.19 0)
+		(layer "B.SilkS")
+		(uuid "3b8b91f5-97c6-4311-9de2-592cc04c9c7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Back side"
+		(at 165.24 133.18 0)
+		(layer "F.SilkS")
+		(uuid "1f475b96-2b9d-41f4-973c-9fe6a68d44c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Futaba"
 		(at 164.07133 148.132018 0)
 		(layer "F.SilkS")
 		(uuid "8e3a7ce1-dd0f-48e8-bdc4-eabbc575d87c")
@@ -66774,7 +66799,7 @@
 		)
 	)
 	(gr_text "rev.1"
-		(at 174.143537 147.873435 0)
+		(at 174.63 148.01 0)
 		(layer "F.SilkS")
 		(uuid "ebe65fe9-18c9-417b-a196-98e583d21ab8")
 		(effects
