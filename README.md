@@ -35,8 +35,9 @@ QMK firmware or Vial firmware can be obtained from the following URL
 
 ## Build Guide
 
-Under construction
+Please read here.
 
+- https://geek-rabb1t.github.io/futaba/build_guide
 
 ---
 
@@ -78,4 +79,6 @@ Futabaはトラックパッド付きキーボードです。
 
 ## 組み立て手順
 
-作成中。
+こちらをご覧ください。
+
+- https://geek-rabb1t.github.io/futaba/build_guide
