@@ -15,3 +15,10 @@ pcb/fabrication-toolkit-options.json
 /pcb/output
 /pcb/production
 pcb/sym-lib-table
+smd-microswitch-adapter/smd-microswitch-adapter-backups/*
+*.3mf
+*.chitubox
+*.lck
+smd-microswitch-adapter/production/*
+smd-microswitch-adapter/fp-info-cache
+/case/export/old
